@@ -2,15 +2,15 @@
 
 1. 通过 `JetBrains Toolbox` 下载最新版的 `Android Studio` ，如下图所示：
 
-   ![image-20260914165539526](C:\Users\Jayson\AppData\Roaming\Typora\typora-user-images\image-20260914165539526.png)
+   ![image-20260914165539526](images/1.png)
 
 2. 本机已有 `Git` 版本如图：
 
-   ![image-20260914165635628](C:\Users\Jayson\AppData\Roaming\Typora\typora-user-images\image-20260914165635628.png)
+   ![image-20260914165635628](images/2.png)
 
 3. 通过 `Android Studio` 构建新的项目，运行结果如图：
 
-   ![image-20260914165835120](C:\Users\Jayson\AppData\Roaming\Typora\typora-user-images\image-20260914165835120.png)
+   ![image-20260914165835120](images/3.png)
 
    成功在模拟器上面打印出 Hello Android！
 
